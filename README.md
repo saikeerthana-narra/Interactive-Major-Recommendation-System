@@ -14,12 +14,17 @@ In summary, the interactive Major Recommender project combines cutting-edge tech
 # Features:
 
 i) User-friendly interface: The project offers a user-friendly and intuitive quiz interface, making it easy for users to provide responses.
+
 ii) Personalized major recommendations: By analyzing the user's input, the quiz system suggests multiple academic majors that align with their interests and desired degree.
+
 iii) Flexible question structure: The quiz encompasses both general questions and discipline-specific inquiries, allowing for a comprehensive evaluation of the user's preferences.
+
 iv) Error handling and validation: The code incorporates robust error handling and validation mechanisms to ensure smooth execution and minimize any potential issues.
+
 v) Extensibility and customization: The project's design allows for easy expansion, enabling the addition of new questions or majors as per the requirements.
 
 # Implementation Details:
 
 Python implementation: The project is implemented using the Python programming language, offering a widely accessible and versatile solution.
+
 Object-oriented approach: The code is structured using an object-oriented approach, enhancing code modularity and maintainability.
