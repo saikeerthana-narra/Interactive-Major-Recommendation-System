@@ -1,6 +1,7 @@
 # Interactive Major Recommendation System- *Empowering Students with Data-Driven Insights* 
 
 ## EMBEDDED THE QUIZ IN UIUC WEBSITE
+<img width="597" alt="image" src="https://github.com/saikeerthana-narra/Interactive-Major-Recommendation-System/assets/120404205/f25fd62c-c127-4028-99e8-a549d35c0c1a">
 
 The Interactive Major Recommender project is a comprehensive and sophisticated system designed to guide individuals in making informed decisions about their academic majors. By leveraging data-driven methodologies, this project offers personalized recommendations for optimal academic pathways.
 
